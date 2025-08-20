@@ -1,9 +1,8 @@
-# Hello there 👋
+# Hello there 👋  
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-  
-  <h3>I'm Yohannes Mesay, Full-Stack Developer 🚀</h3>
+  <h3>I'm Yohannes Mesay — Full-Stack Developer 🚀</h3>
   <p>
     Passionate about building scalable web apps, clean UI, and solving real-world problems with modern tech.  
     Currently working on <b>social platforms</b> and <b>appointment systems</b>.
@@ -12,29 +11,34 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanes-mesay-ba4999262)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/@Yohanes62483974)
-[![Telegram](https://img.shields.io/badge/Telegram-%23007ABF.svg?logo=telegram&logoColor=white)](https://t.me/Yuhe5)
-
----
-
-## 💻 Tech Stack
-
-**Core Skills**
-- Frontend: React, Next.js, Tailwind, Shadcn UI, Mantine  
-- Backend: Node.js, NestJS, Express, Prisma  
-- Databases: PostgreSQL, MongoDB, Supabase  
-
-**Additional Tools**
-- TypeScript, Java, Python, C++  
-- Zod, React Hook Form, TanStack Table  
-- Vercel, GitHub Pages, cPanel, AWS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanes-mesay-ba4999262)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/@Yohanes62483974)  
+[![Telegram](https://img.shields.io/badge/Telegram-%23007ABF.svg?logo=telegram&logoColor=white)](https://t.me/Yuhe5)  
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Skills / Tech Stack  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannes-mesay&theme=dark&hide_border=false&layout=compact)
+### Frontend  
+- **React.js, Next.js, React Native**  
+- **HTML5/CSS, JavaScript, TypeScript**  
+- **Tailwind CSS, Shadcn UI**  
 
+### Backend  
+- **Node.js, Express, NestJS, Socket.io**  
+- **Docker**  
+
+### Databases  
+- **PostgreSQL, MongoDB, Supabase**  
+
+### Testing & Tools  
+- **Playwright, Selenium, Jest**  
+- **Zod, TanStack Table, Redux**  
+
+### Other Skills  
+- **Git, GitHub, Agile Methodology**  
+- **Java, Python**  
+
+---
