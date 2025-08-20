@@ -30,7 +30,7 @@
 **Additional Tools**
 - TypeScript, Java, Python, C++  
 - Zod, React Hook Form, TanStack Table  
-- Vercel, GitHub Pages, cPanel  
+- Vercel, GitHub Pages, cPanel, AWS
 
 ---
 
