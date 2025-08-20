@@ -69,7 +69,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohannes-mesay\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohannes-mesay\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yohannes-mesay\&theme=dark\&hide_border=false)
 
