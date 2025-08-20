@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
   
-  <h3>I'm Yohannes Mesay — Full-Stack Developer 🚀</h3>
+  <h3>I'm Yohannes Mesay, Full-Stack Developer 🚀</h3>
   <p>
     Passionate about building scalable web apps, clean UI, and solving real-world problems with modern tech.  
     Currently working on <b>social platforms</b> and <b>appointment systems</b>.
