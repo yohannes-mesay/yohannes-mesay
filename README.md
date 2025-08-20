@@ -40,5 +40,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannes-mesay&theme=dark&hide_border=false&layout=compact)
 
-![Contributors](https://github-contributor-stats.vercel.app/api?username=yohannes-mesay&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
