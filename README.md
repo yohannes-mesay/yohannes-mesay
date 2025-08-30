@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-  <h3>I'm Yohannes Mesay — Full-Stack Developer 🚀</h3>
+  <h3>I'm Yohannes Mesay, Full-Stack Developer 🚀</h3>
   <p>
     Passionate about building scalable web apps, clean UI, and solving real-world problems with modern tech.  
     Currently working on <b>social platforms</b> and <b>appointment systems</b>.
@@ -13,7 +13,7 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanes-mesay-ba4999262)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohannes-mesay)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/@Yohanes62483974)  
 [![Telegram](https://img.shields.io/badge/Telegram-%23007ABF.svg?logo=telegram&logoColor=white)](https://t.me/Yuhe5)  
 
@@ -38,7 +38,7 @@
 - **Zod, TanStack Table, Redux**  
 
 ### Other Skills  
-- **Git, GitHub, Agile Methodology**  
+- **Git, GitHub Actions, Agile Methodology**  
 - **Java, Python**  
 
 ---
