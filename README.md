@@ -28,13 +28,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/yohannes-mesay">
+  <!-- <a href="https://github.com/yohannes-mesay">
     <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api?username=yohannes-mesay&show_icons=true&theme=tokyonight&hide_border=true" alt="Yohannes's GitHub Stats" />
-  </a>
+  </a> -->
   <a href="https://github.com/yohannes-mesay">
     <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yohannes-mesay&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
   </a>
 </div>
+
 ## 🔥 Contribution Streak
 
 <div align="center">
