@@ -40,5 +40,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=yohannes-mesay&theme=tokyonight&hide_border=true&background=1c1b27&dates=1c1b27" alt="GitHub Contribution Streak" />
 </div>
-
----
