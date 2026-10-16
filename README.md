@@ -1,10 +1,9 @@
 # Hi there 👋
 
 <div align="center">
-  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/> -->
   <h3>I'm Yohannes Mesay, Full-Stack Engineer</h3>
   <p>
-    Expert at building scalable and performant web apps, creating clean UI, and solving real-world problems with modern tech.<br>
+    Expert at building scalable and performant web apps, creating clean UI, and solving real-world problems with modern tech.
   </p>
 </div>
 
@@ -22,4 +21,24 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,js,html,css,nodejs,express,nestjs,docker,postgres,mongodb,supabase,git,java,py,jest,redux,selenium,socketio&perline=10)
 
-*(Shadcn/UI, Zod, TanStack Table, Playwright, GitHub Actions, Agile, etc. are part of my daily workflow too)*
+*Shadcn/UI, Zod, TanStack Table, Playwright, GitHub Actions, Agile, and more are part of my daily workflow.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/yohannes-mesay">
+    <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api?username=yohannes-mesay&show_icons=true&theme=tokyonight&hide_border=true" alt="Yohannes's GitHub Stats" />
+  </a>
+  <a href="https://github.com/yohannes-mesay">
+    <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yohannes-mesay&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
+</div>
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=yohannes-mesay&theme=tokyonight&hide_border=true&background=1c1b27&dates=1c1b27" alt="GitHub Contribution Streak" />
+</div>
+
+---
