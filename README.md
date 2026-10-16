@@ -28,16 +28,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- <a href="https://github.com/yohannes-mesay">
-    <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api?username=yohannes-mesay&show_icons=true&theme=tokyonight&hide_border=true" alt="Yohannes's GitHub Stats" />
-  </a> -->
   <a href="https://github.com/yohannes-mesay">
-    <img height="180" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yohannes-mesay&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yohannes-mesay&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Top 5 Languages" />
+  </a><a href="https://github.com/yohannes-mesay">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=yohannes-mesay&theme=tokyonight&hide_border=true&background=1c1b27&dates=1c1b27" alt="GitHub Contribution Streak" />
   </a>
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yohannes-mesay&theme=tokyonight&hide_border=true&background=1c1b27&dates=1c1b27" alt="GitHub Contribution Streak" />
 </div>
